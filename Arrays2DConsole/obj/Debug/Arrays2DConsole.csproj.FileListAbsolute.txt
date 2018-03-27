@@ -1,0 +1,7 @@
+C:\Users\takigava kioshi\source\repos\oop-lab3\Arrays2DConsole\obj\Debug\Arrays2DConsole.csprojResolveAssemblyReference.cache
+C:\Users\takigava kioshi\source\repos\oop-lab3\Arrays2DConsole\obj\Debug\Arrays2DConsole.csproj.CoreCompileInputs.cache
+C:\Users\takigava kioshi\source\repos\oop-lab3\Arrays2DConsole\bin\Debug\Arrays2DConsole.exe.config
+C:\Users\takigava kioshi\source\repos\oop-lab3\Arrays2DConsole\bin\Debug\Arrays2DConsole.exe
+C:\Users\takigava kioshi\source\repos\oop-lab3\Arrays2DConsole\bin\Debug\Arrays2DConsole.pdb
+C:\Users\takigava kioshi\source\repos\oop-lab3\Arrays2DConsole\obj\Debug\Arrays2DConsole.exe
+C:\Users\takigava kioshi\source\repos\oop-lab3\Arrays2DConsole\obj\Debug\Arrays2DConsole.pdb
